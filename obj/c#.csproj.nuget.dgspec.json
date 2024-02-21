@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aravindcad01\\Desktop\\cadbatch\\c#\\c#.csproj": {}
+    "C:\\Users\\aravindcad01\\Desktop\\cadbatch\\csharp\\c#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aravindcad01\\Desktop\\cadbatch\\c#\\c#.csproj": {
+    "C:\\Users\\aravindcad01\\Desktop\\cadbatch\\csharp\\c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aravindcad01\\Desktop\\cadbatch\\c#\\c#.csproj",
+        "projectUniqueName": "C:\\Users\\aravindcad01\\Desktop\\cadbatch\\csharp\\c#.csproj",
         "projectName": "c#",
-        "projectPath": "C:\\Users\\aravindcad01\\Desktop\\cadbatch\\c#\\c#.csproj",
+        "projectPath": "C:\\Users\\aravindcad01\\Desktop\\cadbatch\\csharp\\c#.csproj",
         "packagesPath": "C:\\Users\\aravindcad01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aravindcad01\\Desktop\\cadbatch\\c#\\obj\\",
+        "outputPath": "C:\\Users\\aravindcad01\\Desktop\\cadbatch\\csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aravindcad01\\AppData\\Roaming\\NuGet\\NuGet.Config"
