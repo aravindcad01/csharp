@@ -75,23 +75,43 @@
 //     }
 
 
-single inheritance
 
-public class bca{
-    public string arav = "presnt today";
 
+// public class Bca{
+//     public string arav = "present today";
+
+// }
+
+// public class Mca:Bca{
+//     public string harsh ="present";
+// }
+
+// class Miet
+// {
+//     public static void Main(string [] args)
+//     {
+//     Mca i=new Mca();
+//     Console.WriteLine("attendance for "+i.arav);
+//     Console.WriteLine("attendance for "+i.harsh);
+//     } 
+
+// }
+
+
+class Company{
+    static void Main(string [] args)
+    {
+    Tyre1 t=new Tyre1();
+    Console.WriteLine("number of  mrf tyres"+t.Mrf);
+     Console.WriteLine("number of ceat tyres"+t.Ceat);
+    }
 }
 
-public class mca:bca{
-    public string harsh ="present";
+public class Tyre{
+    public int Mrf = 574;
 }
 
-class miet
-{
-    public static void main(string [] args)(
-    mca i=new mca();
-    Console.WriteLine("i.bca");
-    Console.WriteLine("i.mca");
-    )
+public class Tyre1:Tyre{
+    public int Ceat = 535;
 
 }
