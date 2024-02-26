@@ -5,6 +5,7 @@
         AI t = new AI();
         t.Skillsbatch();
         t.Aibatch();
+        t.Cadbatch();
 
 
     }
